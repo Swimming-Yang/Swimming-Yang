@@ -36,10 +36,13 @@
 ## 📊 GitHub Stats
 
 ![Suyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
 
-> 📈 Language usage by repository contribution
-![GitHub language stats](https://streak-stats.demolab.com?user=Swimming-Yang&theme=radical)
+---
+
+## 🧠 Algorithm Profile
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pescatory)](https://solved.ac/pescatory)
 
 ---
 
