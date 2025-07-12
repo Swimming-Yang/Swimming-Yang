@@ -38,10 +38,10 @@
 
 ![Suyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Swimming-Yang&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swimming-Yang&theme=radical)](https://git.io/streak-stats)
 ![Repo Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swimming-Yang&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swimming-Yang&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
