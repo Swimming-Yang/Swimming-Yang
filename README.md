@@ -41,7 +41,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Swimming-Yang&theme=radical)
 ![Repo Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swimming-Yang&theme=radical)
-![GitHub Contribution Graph](https://ghchart.rshah.org/Swimming-Yang)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swimming-Yang&theme=radical)](https://git.io/streak-stats)
 
 ---
 
