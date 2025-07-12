@@ -21,6 +21,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
 > I'm progressively expanding my backend skillset for scalable and maintainable system design.
 
 ---
@@ -36,13 +37,23 @@
 ## 📊 GitHub Stats
 
 ![Suyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Swimming-Yang&theme=radical)
+![Repo Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swimming-Yang&theme=radical)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Swimming-Yang&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🧠 Algorithm Profile
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pescatory)](https://solved.ac/pescatory)
+
+---
+
+## 👀 Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Swimming-Yang&color=blue)
 
 ---
 
