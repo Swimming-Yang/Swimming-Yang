@@ -4,6 +4,10 @@
   🪖 Republic of Korea Marine Corps <br>
   🧪 Former Head of AIONE Lab, Daejeon University <br>
   💻 SSAFY 14th Java Track Trainee <br>
+
+## 💻 Blog
+
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@swimming_ram)
 </p>
 
 ---
