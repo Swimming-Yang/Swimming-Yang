@@ -51,10 +51,10 @@
 
 ## 🧠 Algorithm Profile
 
-![Baekjoon solved](https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory)
-![top solved](https://topsolved.mayonedev.com/api/boj?handle=pescatory&row=10)
----
-
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=pescatory" />
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pescatory" />
+</p>
 ## 👀 Visitors
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Swimming-Yang&color=blue)
