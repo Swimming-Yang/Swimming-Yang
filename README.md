@@ -51,8 +51,6 @@
 
 ## 🧠 Algorithm Profile
 
-## 🧠 Algorithm Profile
-
 ![Baekjoon solved](https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory)
 ![top solved](https://topsolved.mayonedev.com/api/boj?handle=pescatory&row=12)
 
