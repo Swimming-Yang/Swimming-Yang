@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyeong Yang</h1>
 <p align="center">
-  🎓 Daejeon High School → Daejeon University (Computer Engineering) <br>
+  🎓 SongChone HighSchool → Daejeon University (Computer Engineering) <br>
   🪖 Republic of Korea Marine Corps <br>
   🧪 Former Head of AIONE Lab, Daejeon University <br>
   💻 SSAFY 14th Java Track Trainee <br>
