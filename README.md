@@ -5,9 +5,9 @@
   🧪 Former Head of AIONE Lab, Daejeon University <br>
   💻 SSAFY 14th Java Track Trainee <br>
 
-## 💻  Blog
+## 💻  Site 공사중 ..
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@swimming_ram)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://양수영.com)
 </p>
 
 ---
