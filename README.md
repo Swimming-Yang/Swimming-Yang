@@ -54,6 +54,14 @@
 ![Baekjoon solved](https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory)
 ![top solved](https://topsolved.mayonedev.com/api/boj?handle=pescatory&row=12)
 
+<iframe 
+  src="https://swimming-yang.github.io/BOJ_Wizet/?user=pescatory" 
+  width="400" 
+  height="600" 
+  frameborder="0"
+  style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+</iframe>
+
 ---
 ## 👀 Visitors
 
