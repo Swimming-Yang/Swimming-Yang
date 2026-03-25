@@ -7,6 +7,7 @@
 
 대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학회장
 Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
+2026.03 SOLETOP
 
 ---
 
