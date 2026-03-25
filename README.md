@@ -1,21 +1,25 @@
 <div align="center">
 
-# Suyeong Yang
+# 양수영 · Suyeong Yang
 
+**컴퓨터공학 · SSAFY 14기 Java 트랙**
 **Computer Engineering · SSAFY 14th Java Track**
 
+대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학회장
 Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
 
-## Tech Stack
+## 기술 스택 · Tech Stack
 
-**Currently Using**
+**현재 사용 중 · Currently Using**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Expanding into**
+**확장 중 · Expanding into**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007ACC?style=flat&logo=hibernate&logoColor=white)
@@ -26,15 +30,15 @@ Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
 
-## Goals
+## 목표 · Goals
 
-- Commit every day (1 commit/day)
-- Prepare for Samsung SW Competency Test Type B
-- Become a **valuable** and **impactful** developer
+- 매일 커밋 (1 commit/day) · Commit every day
+- 삼성 SW 역량테스트 B형 준비 · Prepare for Samsung SW Competency Test Type B
+- 가치 있는 개발자 · Become a **valuable** and **impactful** developer
 
 ---
 
-## GitHub Stats
+## GitHub 통계 · GitHub Stats
 
 ![Suyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical)
@@ -46,11 +50,10 @@ Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
 
-## Algorithm
+## 알고리즘 · Algorithm
 
 ![Baekjoon solved](https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory)
 ![top solved](https://topsolved.mayonedev.com/api/boj?handle=pescatory&row=12)
-![BOJ Widget Badge](https://swimming-yang.github.io/BOJ_Wizet/badge.html?user=pescatory)
 
 ---
 
@@ -59,6 +62,8 @@ Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Swimming-Yang&color=blue)
 
 ---
+
+*"꾸준함이 답이다. 매일 1%의 성장이 큰 변화를 만든다."*
 
 *"Stay consistent. Even 1% growth each day leads to massive improvement."*
 
