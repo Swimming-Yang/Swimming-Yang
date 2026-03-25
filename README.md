@@ -5,7 +5,7 @@
 **컴퓨터공학 · SSAFY 14기 Java 트랙**
 **Computer Engineering · SSAFY 14th Java Track**
 
-대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학부연구실장
+대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학회장
 Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
@@ -14,19 +14,11 @@ Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 **현재 사용 중 · Currently Using**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,react)](https://skillicons.dev)
 
 **확장 중 · Expanding into**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007ACC?style=flat&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=hibernate,mysql,redis,docker,aws)](https://skillicons.dev)
 
 ---
 
