@@ -5,7 +5,7 @@
 **컴퓨터공학 · SSAFY 14기 Java 트랙**
 **Computer Engineering · SSAFY 14th Java Track**
 
-대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학회장
+대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학부연구실장
 Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
@@ -32,9 +32,8 @@ Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ## 목표 · Goals
 
-- 매일 커밋 (1 commit/day) · Commit every day
-- 삼성 SW 역량테스트 B형 준비 · Prepare for Samsung SW Competency Test Type B
-- 가치 있는 개발자 · Become a **valuable** and **impactful** developer
+- 가치 있는 방산 개발자 · Become a **valuable** defense industry developer
+- 꾸준한 알고리즘 공부 · Study algorithms **consistently**
 
 ---
 
