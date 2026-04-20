@@ -5,7 +5,7 @@
 **컴퓨터공학 · SSAFY 14기 Java 트랙**
 **Computer Engineering · SSAFY 14th Java Track**
 
-대전대학교 · 대한민국 해병대 · 전 AIONE Lab 학회장
+대전대학교 · 대한민국 해병대 · 전 AIONE Lab 연구실장
 Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
 
 ---
