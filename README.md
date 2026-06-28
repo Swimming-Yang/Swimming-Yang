@@ -58,33 +58,32 @@ Application Software Developer
 
 ---
 
-## GitHub 통계 · GitHub Stats
+##  GitHub Stats
 
-![Suyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swimming-Yang&theme=radical)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swimming-Yang&show_icons=true&theme=radical&hide_border=true"/>
 
-![Repo Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swimming-Yang&theme=radical)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swimming-Yang&theme=radical)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swimming-Yang&layout=compact&theme=radical&hide_border=true"/>
 
----
-
-## 알고리즘 · Algorithm
-
-![Baekjoon solved](https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory)
-![top solved](https://topsolved.mayonedev.com/api/boj?handle=pescatory&row=12)
+</div>
 
 ---
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://양수영.com)
-&nbsp;
+##  Algorithm
+
+<div align="center">
+
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=pescatory"/>
+
+</div>
+---
+
+[![Website](https://img.shields.io/badge/Website-양수영.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://양수영.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Swimming--Yang-181717?style=for-the-badge&logo=github)](https://github.com/Swimming-Yang)
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Swimming-Yang&color=blue)
 
 ---
-
-*"꾸준함이 답이다. 매일 1%의 성장이 큰 변화를 만든다."*
-
-*"Stay consistent. Even 1% growth each day leads to massive improvement."*
 
 </div>
