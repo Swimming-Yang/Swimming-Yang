@@ -31,15 +31,23 @@ Application Software Developer
 
 ---
 
+---
+
 ## 기술 스택 · Tech Stack
 
-**현재 사용 중 · Currently Using**
+### 현재 사용 중 · Currently Using
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql)](https://skillicons.dev)
 
-**확장 중 · Expanding into**
+**C# · WPF · C++ · MS-SQL · MySQL**
 
-[![My Skills](https://skillicons.dev/icons?i=hibernate,mysql,redis,docker,aws)](https://skillicons.dev)
+---
+
+### 확장 중 · Expanding Into
+
+[![My Skills](https://skillicons.dev/icons?i=unity,docker)](https://skillicons.dev)
+
+**Unity · Embedded · Docker**
 
 ---
 
