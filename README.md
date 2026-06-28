@@ -2,11 +2,32 @@
 
 # 양수영 · Suyeong Yang
 
-**컴퓨터공학 · SSAFY 14기 Java 트랙**
+**컴퓨터공학 · SSAFY 14기 Java 트랙**  
 **Computer Engineering · SSAFY 14th Java Track**
 
-대전대학교 · 대한민국 해병대 · 전 AIONE Lab 연구실장
-Daejeon University · Republic of Korea Marine Corps · Former Head of AIONE Lab
+---
+
+## 📖 Career
+
+ **대전대학교**  
+Computer Engineering  
+**2018 – 2025**
+
+ **대한민국 해병대**  
+Republic of Korea Marine Corps  
+**2020 – 2022**
+
+ **AIONE Lab**  
+Former Head of Research Lab  
+**2022 – 2025**
+
+**Samsung SSAFY 14th**  
+Java Track  
+**2025 – 2026**
+
+ **SOLETOP**  
+Application Software Developer  
+**2026.04 – Present**
 
 ---
 
